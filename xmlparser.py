@@ -35,6 +35,10 @@ for items in obj:
         items["imdb_id"] = items.pop("@imdbid")
     if "@tvdbid" in items:
         items["thetvdb_id"] = items.pop("@tvdbid")
+    if items["thetvdb_id"].isnumeric() == False:
+        del items["thetvdb_id"]
+    if items["imdb_id"].isnumeric() == False:
+        del items["imdb_id"]
     items = {k: v for k, v in items.items() if v}
     newList.append(items)
 

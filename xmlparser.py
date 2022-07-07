@@ -13,6 +13,7 @@ with open("anime-list.xml", 'r') as myfile:
 obj = obj['anime-list']
 obj = obj['anime']
 
+newList = []
 for items in obj:
     if "name" in items:
         del items["name"]
@@ -26,13 +27,17 @@ for items in obj:
         del items["@defaulttvdbseason"]
     if "mapping-list" in items:
         del items["mapping-list"]
+    if "before" in items:
+        del items["before"]
     if "@anidbid" in items:
         items["anidb_id"] = items.pop("@anidbid")
     if "@imdbid" in items:
         items["imdb_id"] = items.pop("@imdbid")
     if "@tvdbid" in items:
         items["thetvdb_id"] = items.pop("@tvdbid")
+    items = {k: v for k, v in items.items() if v}
+    newList.append(items)
 
 with open("animelist.json", "w") as write:
-    json.dump(obj,write, indent=4)
+    json.dump(newList,write, indent=2)
 

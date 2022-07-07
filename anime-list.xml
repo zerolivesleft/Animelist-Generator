@@ -44687,6 +44687,9 @@
   </anime>
   <anime anidbid="16296" tvdbid="294002" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Overlord IV</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="12" offset="44"/>
+    </mapping-list>
   </anime>
   <anime anidbid="16297" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Overlord: Sei Oukoku Hen</name>

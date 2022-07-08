@@ -26,7 +26,7 @@ jobs:
           pip install -r app/requirements.txt
           
       - name: execute py script # run sj-gobierno.py to get the latest data
-        run: python anime_list_full.py
+        run: python app/anime_list_full.py
           
       - name: commit files
         run: |

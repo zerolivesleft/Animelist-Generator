@@ -1,7 +1,10 @@
-import animelist, anime_offline_database, json
+import animelist, anime_offline_database, json, os
 from datetime import datetime
 from collections import defaultdict
 
+
+dirname = os.path.dirname(__file__)
+filename = os.path.join(dirname, '../README.md')
 
 list1 = open('anime_offline_database.json')
 list2 = open('animelist.json')
@@ -27,12 +30,12 @@ with open("anime_list_full.json", "w") as write:
 now = datetime.now()
 d2 = now.strftime("Last Generated at: %B %d, %Y at %I:%M %p CST")
 
-with open("README.md","r") as file:
+with open(filename,"r") as file:
     data = file.readlines()
 
 data[1] = d2
 
 
-with open("README.md", "w") as file:
+with open(filename, "w") as file:
     file.writelines( data )
 

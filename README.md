@@ -1,2 +1,2 @@
 ## Animelist-Generator
-Last Generated at: July 08, 2022 at 09:14 AM CST
+Last Generated at: July 08, 2022 at 04:10 PM CST

@@ -1,3 +1,6 @@
 __pycache__/
 animelist.xml
 Dockerfile
+.vscode/
+animelist.json
+anime_offline_database.json

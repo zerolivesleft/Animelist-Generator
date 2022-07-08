@@ -1,6 +1,5 @@
 import json
 import requests
-from turtle import done
 
 url = "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/anime-offline-database.json"
 response = requests.get(url)

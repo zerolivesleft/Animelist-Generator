@@ -1,4 +1,3 @@
-from curses.ascii import isdigit
 import json
 import requests
 from turtle import done

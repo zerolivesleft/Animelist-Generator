@@ -1,4 +1,3 @@
-from unittest import result
 import animelist, anime_offline_database, json
 from datetime import datetime
 from collections import defaultdict
@@ -17,17 +16,10 @@ for l in (list1, list2):
         d[anime["anidb_id"]].update(anime)
 fullList = list(d.values())
 
-print(type(fullList))
 
 
 with open("anime_list_full.json", "w") as write:
     json.dump(fullList,write, indent=2)
-
-
-
-
-
-
 
 
 
@@ -39,7 +31,7 @@ with open("README.md","r") as file:
     data = file.readlines()
 
 data[1] = d2
-print(data[1])
+
 
 with open("README.md", "w") as file:
     file.writelines( data )

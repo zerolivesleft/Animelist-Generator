@@ -28,7 +28,7 @@ with open("anime_list_full.json", "w") as write:
 
 #### Generates time stamp for Readme file ####
 now = datetime.now()
-d2 = now.strftime("Last Generated at: %B %d, %Y at %I:%M %p CST")
+d2 = now.strftime("Last Generated at: %B %d, %Y at %I:%M UTC")
 
 with open(filename,"r") as file:
     data = file.readlines()

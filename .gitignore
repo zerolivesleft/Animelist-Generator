@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+anime_offline_database.json
+animelist.json
+animelist.xml
+.DS_Store

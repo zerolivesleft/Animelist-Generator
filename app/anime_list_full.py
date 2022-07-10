@@ -39,7 +39,7 @@ def updateReadme():
     with open(filename,"r") as file:
         data = file.readlines()
 
-    data[1] = "Last generated at:" + central + "\n"
+    data[1] = "Last generated at: " + central + "\n"
 
 
     with open(filename, "w") as file:

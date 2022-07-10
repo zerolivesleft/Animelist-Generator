@@ -1,4 +1,5 @@
 import animelist, anime_offline_database, tmdb, json, os
+from dateutil import tz
 from datetime import datetime
 from collections import defaultdict
 
@@ -21,19 +22,24 @@ def genList():
     with open("anime_list_full.json", "w") as write:
         json.dump(fullList,write, indent=2)
     print("anime_list_full.json Generated")
-
+from_zone = tz.gettz('UTC')
+to_zone = tz.gettz('America/Chicago')
 
 def updateReadme():
     #### Generates time stamp for Readme file ####
     dirname = os.path.dirname(__file__)
     filename = os.path.join(dirname, '../README.md')
     now = datetime.now()
-    d2 = now.strftime("Last Generated at: %B %d, %Y at %I:%M %p UTC")
+    d2 = now.strftime("%Y-%m-%d %H:%M:%S")
+    utc = datetime.strptime(d2, '%Y-%m-%d %H:%M:%S')
+    utc = utc.replace(tzinfo=from_zone)
+    central = utc.astimezone(to_zone)
+    central = central.strftime("%B %d, %Y %I:%M %p %Z")
 
     with open(filename,"r") as file:
         data = file.readlines()
 
-    data[1] = d2
+    data[1] = "Last generated at:" + central + "\n"
 
 
     with open(filename, "w") as file:

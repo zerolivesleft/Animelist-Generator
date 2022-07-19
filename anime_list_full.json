@@ -18459,6 +18459,9 @@
     "thetvdb_id": 261667
   },
   {
+    "anidb_id": 17515
+  },
+  {
     "anidb_id": 5525,
     "anilist_id": 10526,
     "kitsu_id": 6223,
@@ -29381,6 +29384,12 @@
     "thetvdb_id": 171591
   },
   {
+    "anidb_id": 17514,
+    "anilist_id": 152302,
+    "livechart_id": 11335,
+    "mal_id": 52405
+  },
+  {
     "anidb_id": 4609,
     "anilist_id": 6181,
     "kitsu_id": 4461,
@@ -31949,6 +31958,7 @@
   },
   {
     "anidb_id": 17357,
+    "anilist_id": 151128,
     "livechart_id": 11211,
     "mal_id": 51839
   },
@@ -33035,6 +33045,13 @@
     "kitsu_id": 44925,
     "livechart_id": 9870,
     "mal_id": 41567
+  },
+  {
+    "anidb_id": 17507,
+    "anilist_id": 152137,
+    "kitsu_id": 46243,
+    "livechart_id": 11330,
+    "mal_id": 52367
   },
   {
     "anidb_id": 12385,
@@ -38792,6 +38809,7 @@
   {
     "anidb_id": 17474,
     "anilist_id": 151300,
+    "kitsu_id": 46255,
     "livechart_id": 11287,
     "mal_id": 52186
   },
@@ -48589,6 +48607,13 @@
     "mal_id": 49847
   },
   {
+    "anidb_id": 17511,
+    "anilist_id": 141878,
+    "kitsu_id": 45720,
+    "livechart_id": 11331,
+    "mal_id": 51203
+  },
+  {
     "anidb_id": 14287,
     "anilist_id": 106496,
     "kitsu_id": 41922,
@@ -54841,12 +54866,6 @@
     "anilist_id": 16610,
     "kitsu_id": 7474,
     "mal_id": 16610
-  },
-  {
-    "anidb_id": 17507,
-    "anilist_id": 152137,
-    "kitsu_id": 46243,
-    "livechart_id": 11330
   },
   {
     "anidb_id": 8210,
@@ -86118,6 +86137,12 @@
     "thetvdb_id": 289172
   },
   {
+    "anidb_id": 17513,
+    "anilist_id": 152207,
+    "livechart_id": 11332,
+    "mal_id": 52381
+  },
+  {
     "anidb_id": 7985,
     "anilist_id": 9608,
     "kitsu_id": 5807,
@@ -86802,6 +86827,7 @@
   {
     "anidb_id": 17425,
     "anilist_id": 141882,
+    "kitsu_id": 46259,
     "mal_id": 50571
   },
   {
@@ -93448,15 +93474,6 @@
     "anidb_id": 17510
   },
   {
-    "anidb_id": 17511
-  },
-  {
     "anidb_id": 17512
-  },
-  {
-    "anidb_id": 17513
-  },
-  {
-    "anidb_id": 17514
   }
 ]

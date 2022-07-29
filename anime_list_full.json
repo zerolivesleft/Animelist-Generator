@@ -34837,10 +34837,6 @@
     "themoviedb_id": 14282
   },
   {
-    "anidb_id": 9333,
-    "kitsu_id": 11789
-  },
-  {
     "anidb_id": 681,
     "anilist_id": 618,
     "kitsu_id": 573,
@@ -48393,7 +48389,9 @@
     "livechart_id": 2557
   },
   {
-    "anidb_id": 14937
+    "anidb_id": 14937,
+    "livechart_id": 9552,
+    "mal_id": 39906
   },
   {
     "anidb_id": 5845,
@@ -52324,6 +52322,7 @@
   {
     "anidb_id": 13639,
     "kitsu_id": 10918,
+    "mal_id": 49666,
     "imdb_id": "tt4523696",
     "themoviedb_id": 517099
   },
@@ -54315,6 +54314,7 @@
     "anidb_id": 15138,
     "anilist_id": 112357,
     "kitsu_id": 42615,
+    "livechart_id": 9634,
     "mal_id": 40515,
     "thetvdb_id": 370768
   },
@@ -54655,6 +54655,10 @@
     "mal_id": 619,
     "thetvdb_id": 79464,
     "imdb_id": "tt0402400"
+  },
+  {
+    "anidb_id": 9333,
+    "kitsu_id": 11789
   },
   {
     "anidb_id": 1959,

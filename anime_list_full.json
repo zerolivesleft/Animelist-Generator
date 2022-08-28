@@ -71816,14 +71816,14 @@
     "anidb_id": 11988
   },
   {
+    "anidb_id": 2845
+  },
+  {
     "anidb_id": 1362,
     "anilist_id": 2779,
     "kitsu_id": 2535,
     "livechart_id": 7636,
     "mal_id": 2779
-  },
-  {
-    "anidb_id": 2845
   },
   {
     "anidb_id": 1241,
@@ -93911,5 +93911,23 @@
   },
   {
     "anidb_id": 17578
+  },
+  {
+    "anidb_id": 17582
+  },
+  {
+    "anidb_id": 17583
+  },
+  {
+    "anidb_id": 17584
+  },
+  {
+    "anidb_id": 17585
+  },
+  {
+    "anidb_id": 17586
+  },
+  {
+    "anidb_id": 17587
   }
 ]

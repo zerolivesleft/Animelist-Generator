@@ -34261,6 +34261,7 @@
   },
   {
     "anidb_id": 14581,
+    "anilist_id": 104559,
     "mal_id": 45780
   },
   {
@@ -34314,7 +34315,7 @@
   },
   {
     "anidb_id": 16760,
-    "anilist_id": 141950,
+    "anilist_id": 141953,
     "mal_id": 50462
   },
   {
@@ -34960,6 +34961,7 @@
   },
   {
     "anidb_id": 10225,
+    "anilist_id": 149036,
     "kitsu_id": 9010,
     "mal_id": 21021
   },
@@ -66662,7 +66664,8 @@
     "anilist_id": 113692,
     "kitsu_id": 44497,
     "livechart_id": 9704,
-    "mal_id": 40814
+    "mal_id": 40814,
+    "thetvdb_id": 173271
   },
   {
     "anidb_id": 10197,

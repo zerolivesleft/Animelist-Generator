@@ -1,5 +1,5 @@
 # Animelist-Generator
-Last generated at: September 29, 2022 01:02 AM CDT
+Last generated at: September 30, 2022 01:05 AM CDT
 
 ## What is it?
 This is a list for mapping anime from various anime websites to their ID on the TVDB. I made it for my personal use with [Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) as the list included in the project updates once a month and I needed something more frequent. This list should update once a day using a small python script and GitHub actions.

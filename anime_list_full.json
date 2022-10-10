@@ -4476,7 +4476,8 @@
     "anilist_id": 154473,
     "kitsu_id": 46454,
     "livechart_id": 11465,
-    "mal_id": 52995
+    "mal_id": 52995,
+    "thetvdb_id": 357019
   },
   {
     "anidb_id": 11413,
@@ -94619,6 +94620,7 @@
     "anidb_id": 17619
   },
   {
+    "thetvdb_id": 357019,
     "anidb_id": 17647
   },
   {

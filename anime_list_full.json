@@ -10721,6 +10721,18 @@
     "mal_id": 6346
   },
   {
+    "anidb_id": 16654,
+    "mal_id": 45147
+  },
+  {
+    "anidb_id": 16655,
+    "mal_id": 45148
+  },
+  {
+    "anidb_id": 16656,
+    "mal_id": 45149
+  },
+  {
     "anidb_id": 11168,
     "anilist_id": 103724,
     "kitsu_id": 10614,
@@ -11071,15 +11083,6 @@
     "livechart_id": 6576,
     "mal_id": 2836,
     "thetvdb_id": 81643
-  },
-  {
-    "anidb_id": 16654
-  },
-  {
-    "anidb_id": 16655
-  },
-  {
-    "anidb_id": 16656
   },
   {
     "anidb_id": 16657

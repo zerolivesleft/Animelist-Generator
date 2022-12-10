@@ -17490,10 +17490,6 @@
     "mal_id": 1684
   },
   {
-    "anidb_id": 17116,
-    "anilist_id": 146347
-  },
-  {
     "anidb_id": 14161,
     "anilist_id": 103008,
     "kitsu_id": 43023,
@@ -17516,6 +17512,11 @@
     "anilist_id": 119925,
     "kitsu_id": 45048,
     "mal_id": 45448
+  },
+  {
+    "anidb_id": 17116,
+    "anilist_id": 146347,
+    "mal_id": 52378
   },
   {
     "anidb_id": 15148,

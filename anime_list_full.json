@@ -50381,7 +50381,8 @@
     "anilist_id": 110699,
     "kitsu_id": 43536,
     "livechart_id": 9951,
-    "mal_id": 41917
+    "mal_id": 41917,
+    "thetvdb_id": 388678
   },
   {
     "anidb_id": 11492,
@@ -95525,5 +95526,59 @@
   },
   {
     "anidb_id": 17748
+  },
+  {
+    "anidb_id": 17765
+  },
+  {
+    "anidb_id": 17766
+  },
+  {
+    "anidb_id": 17767
+  },
+  {
+    "anidb_id": 17768
+  },
+  {
+    "anidb_id": 17769
+  },
+  {
+    "anidb_id": 17770
+  },
+  {
+    "anidb_id": 17771
+  },
+  {
+    "anidb_id": 17772
+  },
+  {
+    "anidb_id": 17773
+  },
+  {
+    "anidb_id": 17774
+  },
+  {
+    "anidb_id": 17775
+  },
+  {
+    "anidb_id": 17776
+  },
+  {
+    "anidb_id": 17777
+  },
+  {
+    "anidb_id": 17778
+  },
+  {
+    "anidb_id": 17779
+  },
+  {
+    "anidb_id": 17780
+  },
+  {
+    "anidb_id": 17781
+  },
+  {
+    "anidb_id": 17782
   }
 ]

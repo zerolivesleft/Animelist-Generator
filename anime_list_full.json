@@ -62080,10 +62080,12 @@
     "thetvdb_id": 80812
   },
   {
-    "anidb_id": 14525
+    "anidb_id": 14525,
+    "mal_id": 38611
   },
   {
-    "anidb_id": 14942
+    "anidb_id": 14942,
+    "mal_id": 38612
   },
   {
     "anidb_id": 1237,
@@ -95730,5 +95732,23 @@
   },
   {
     "anidb_id": 17790
+  },
+  {
+    "anidb_id": 17794
+  },
+  {
+    "anidb_id": 17795
+  },
+  {
+    "anidb_id": 17798
+  },
+  {
+    "anidb_id": 17799
+  },
+  {
+    "anidb_id": 17800
+  },
+  {
+    "anidb_id": 17801
   }
 ]

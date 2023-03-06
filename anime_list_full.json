@@ -82128,16 +82128,20 @@
     "anilist_id": 110732,
     "kitsu_id": 8604,
     "livechart_id": 10540,
-    "mal_id": 23931
+    "mal_id": 23931,
+    "thetvdb_id": 259675
   },
   {
     "anidb_id": 12051,
     "anilist_id": 21730,
     "kitsu_id": 43641,
-    "mal_id": 33064
+    "mal_id": 33064,
+    "thetvdb_id": 259675
   },
   {
-    "anidb_id": 14804
+    "anidb_id": 14804,
+    "thetvdb_id": 259675,
+    "imdb_id": "tt10915840"
   },
   {
     "anidb_id": 2661,

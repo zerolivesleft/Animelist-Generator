@@ -58484,7 +58484,8 @@
     "kitsu_id": 6641,
     "livechart_id": 5544,
     "mal_id": 12001,
-    "thetvdb_id": 81797
+    "thetvdb_id": 81797,
+    "imdb_id": "tt27639430"
   },
   {
     "anidb_id": 8010,
@@ -58512,6 +58513,7 @@
     "kitsu_id": 45513,
     "livechart_id": 10894,
     "mal_id": 50410,
+    "thetvdb_id": 81797,
     "imdb_id": "tt16183464",
     "themoviedb_id": 900667
   },

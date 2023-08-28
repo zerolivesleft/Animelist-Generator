@@ -69419,6 +69419,7 @@
     "kitsu_id": 46530,
     "livechart_id": 11520,
     "mal_id": 53129,
+    "thetvdb_id": 345596,
     "imdb_id": "tt27348312",
     "themoviedb_id": 1056803
   },
@@ -69427,7 +69428,9 @@
     "anilist_id": 161474,
     "kitsu_id": 47742,
     "livechart_id": 11695,
-    "mal_id": 54870
+    "mal_id": 54870,
+    "thetvdb_id": 345596,
+    "imdb_id": "tt28036417"
   },
   {
     "anidb_id": 14397,

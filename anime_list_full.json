@@ -7242,6 +7242,7 @@
   },
   {
     "anidb_id": 16544,
+    "anilist_id": 169102,
     "livechart_id": 10758
   },
   {
@@ -44435,8 +44436,7 @@
   },
   {
     "anidb_id": 15531,
-    "anilist_id": 118131,
-    "livechart_id": 10664
+    "anilist_id": 118131
   },
   {
     "anidb_id": 5535,
@@ -91611,6 +91611,8 @@
   },
   {
     "anidb_id": 18176,
+    "anilist_id": 168998,
+    "kitsu_id": 47930,
     "livechart_id": 12315,
     "mal_id": 56488
   },

@@ -83783,7 +83783,8 @@
     "anilist_id": 125261,
     "kitsu_id": 45942,
     "livechart_id": 10188,
-    "mal_id": 43556
+    "mal_id": 43556,
+    "imdb_id": "tt15420852"
   },
   {
     "anidb_id": 13538,
@@ -99203,5 +99204,23 @@
   },
   {
     "anidb_id": 18250
+  },
+  {
+    "anidb_id": 18251
+  },
+  {
+    "anidb_id": 18252
+  },
+  {
+    "anidb_id": 18253
+  },
+  {
+    "anidb_id": 18254
+  },
+  {
+    "anidb_id": 18255
+  },
+  {
+    "anidb_id": 18256
   }
 ]

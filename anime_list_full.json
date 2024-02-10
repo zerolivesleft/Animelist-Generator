@@ -29225,7 +29225,11 @@
     "mal_id": 23015
   },
   {
-    "anidb_id": 18438
+    "anidb_id": 18438,
+    "anilist_id": 173694,
+    "kitsu_id": 48450,
+    "livechart_id": 12300,
+    "mal_id": 57892
   },
   {
     "anidb_id": 11439,
@@ -35976,7 +35980,9 @@
     "mal_id": 55192
   },
   {
-    "anidb_id": 18436
+    "anidb_id": 18436,
+    "kitsu_id": 48485,
+    "mal_id": 57226
   },
   {
     "anidb_id": 16002,
@@ -91214,6 +91220,7 @@
   },
   {
     "anidb_id": 18461,
+    "anilist_id": 156079,
     "mal_id": 57656
   },
   {

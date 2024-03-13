@@ -34870,7 +34870,11 @@
     "thetvdb_id": 91431
   },
   {
-    "anidb_id": 18528
+    "anidb_id": 18528,
+    "anilist_id": 175872,
+    "kitsu_id": 48606,
+    "livechart_id": 12584,
+    "mal_id": 58359
   },
   {
     "anidb_id": 10273,

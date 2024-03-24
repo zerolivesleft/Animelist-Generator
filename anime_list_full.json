@@ -29125,7 +29125,8 @@
     "kitsu_id": 43303,
     "livechart_id": 9902,
     "mal_id": 42387,
-    "thetvdb_id": 346931
+    "thetvdb_id": 346931,
+    "imdb_id": "tt13054188"
   },
   {
     "anidb_id": 8768,
@@ -101026,5 +101027,41 @@
   },
   {
     "anidb_id": 18530
+  },
+  {
+    "anidb_id": 18540
+  },
+  {
+    "anidb_id": 18542
+  },
+  {
+    "anidb_id": 18543
+  },
+  {
+    "anidb_id": 18544
+  },
+  {
+    "anidb_id": 18545
+  },
+  {
+    "anidb_id": 18546
+  },
+  {
+    "anidb_id": 18547
+  },
+  {
+    "anidb_id": 18548
+  },
+  {
+    "anidb_id": 18553
+  },
+  {
+    "anidb_id": 18554
+  },
+  {
+    "anidb_id": 18555
+  },
+  {
+    "anidb_id": 18556
   }
 ]

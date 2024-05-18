@@ -42326,6 +42326,8 @@
   },
   {
     "anidb_id": 18628,
+    "anilist_id": 177581,
+    "kitsu_id": 48871,
     "livechart_id": 12659,
     "mal_id": 58854
   },
@@ -45205,6 +45207,7 @@
   {
     "anidb_id": 18627,
     "anilist_id": 177552,
+    "kitsu_id": 48857,
     "livechart_id": 12658,
     "mal_id": 58853
   },

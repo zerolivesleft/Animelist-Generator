@@ -15776,7 +15776,6 @@
     "livechart_id": 11149,
     "mal_id": 51358,
     "imdb_id": "tt28813303",
-    "thetvdb_id": 418123,
     "themoviedb_id": 1172229
   },
   {
@@ -25725,7 +25724,8 @@
     "anilist_id": 105255,
     "kitsu_id": 8988,
     "mal_id": 23661,
-    "imdb_id": "tt1619027"
+    "imdb_id": "tt1619027",
+    "themoviedb_id": 696105
   },
   {
     "anidb_id": 10576,
@@ -34488,7 +34488,8 @@
     "livechart_id": 11044,
     "mal_id": 47410,
     "thetvdb_id": 70900,
-    "imdb_id": "tt15411068"
+    "imdb_id": "tt15411068",
+    "themoviedb_id": 827669
   },
   {
     "anidb_id": 631,
@@ -41103,7 +41104,8 @@
     "livechart_id": 1800,
     "mal_id": 6336,
     "thetvdb_id": 403849,
-    "imdb_id": "tt9044262"
+    "imdb_id": "tt9044262",
+    "themoviedb_id": 1305279
   },
   {
     "anidb_id": 11977,
@@ -65340,7 +65342,8 @@
     "livechart_id": 5892,
     "mal_id": 4910,
     "thetvdb_id": 76703,
-    "imdb_id": "tt1172967"
+    "imdb_id": "tt1172967",
+    "themoviedb_id": 216651
   },
   {
     "anidb_id": 6792,

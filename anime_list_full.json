@@ -61244,6 +61244,7 @@
   },
   {
     "anidb_id": 18733,
+    "livechart_id": 12739,
     "mal_id": 59409
   },
   {
@@ -63173,11 +63174,13 @@
   },
   {
     "anidb_id": 16946,
+    "anilist_id": 179870,
     "livechart_id": 10862,
     "mal_id": 50799
   },
   {
     "anidb_id": 17701,
+    "anilist_id": 179871,
     "livechart_id": 11819,
     "mal_id": 53514
   },

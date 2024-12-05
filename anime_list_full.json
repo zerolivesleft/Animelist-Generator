@@ -1502,8 +1502,8 @@
     "anilist_id": 6852,
     "kitsu_id": 4753,
     "livechart_id": 6947,
-    "mal_id": 58541,
     "imdb_id": "tt1092322",
+    "mal_id": 58541,
     "themoviedb_id": 380374
   },
   {
@@ -6221,6 +6221,7 @@
   },
   {
     "anidb_id": 18759,
+    "anilist_id": 185118,
     "mal_id": 59180
   },
   {
@@ -19691,6 +19692,7 @@
   },
   {
     "anidb_id": 18797,
+    "livechart_id": 12940,
     "mal_id": 59458
   },
   {
@@ -26248,6 +26250,12 @@
   {
     "anidb_id": 4887,
     "thetvdb_id": 209611
+  },
+  {
+    "anidb_id": 19022,
+    "anilist_id": 185116,
+    "livechart_id": 12953,
+    "mal_id": 60427
   },
   {
     "anidb_id": 8810
@@ -42753,6 +42761,13 @@
     "thetvdb_id": 409185
   },
   {
+    "anidb_id": 19019,
+    "anilist_id": 185073,
+    "kitsu_id": 49377,
+    "livechart_id": 12948,
+    "mal_id": 60407
+  },
+  {
     "anidb_id": 14465,
     "anilist_id": 105018,
     "kitsu_id": 42031,
@@ -49227,6 +49242,10 @@
     "mal_id": 10755
   },
   {
+    "anidb_id": 19020,
+    "mal_id": 60408
+  },
+  {
     "anidb_id": 12398,
     "anilist_id": 97619,
     "kitsu_id": 12530,
@@ -54819,6 +54838,7 @@
     "anidb_id": 18697,
     "anilist_id": 141862,
     "kitsu_id": 48369,
+    "livechart_id": 12945,
     "mal_id": 57371
   },
   {
@@ -75526,6 +75546,7 @@
   },
   {
     "anidb_id": 6974,
+    "anilist_id": 185119,
     "kitsu_id": 9585,
     "livechart_id": 11644,
     "mal_id": 22997
@@ -86704,6 +86725,7 @@
     "anidb_id": 19015,
     "anilist_id": 185039,
     "kitsu_id": 49375,
+    "livechart_id": 12944,
     "mal_id": 60395
   },
   {
@@ -88338,6 +88360,13 @@
     "kitsu_id": 3507,
     "mal_id": 4183,
     "thetvdb_id": 213231
+  },
+  {
+    "anidb_id": 19018,
+    "anilist_id": 185070,
+    "kitsu_id": 49379,
+    "livechart_id": 12946,
+    "mal_id": 60401
   },
   {
     "anidb_id": 5073,
@@ -103990,15 +104019,6 @@
   },
   {
     "anidb_id": 19017
-  },
-  {
-    "anidb_id": 19018
-  },
-  {
-    "anidb_id": 19019
-  },
-  {
-    "anidb_id": 19020
   },
   {
     "anidb_id": 19021

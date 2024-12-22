@@ -69122,7 +69122,8 @@
     "mal_id": 50378
   },
   {
-    "anidb_id": 19033
+    "anidb_id": 19033,
+    "mal_id": 60436
   },
   {
     "anidb_id": 4144,
@@ -81582,7 +81583,9 @@
     "mal_id": 37409
   },
   {
-    "anidb_id": 19048
+    "anidb_id": 19048,
+    "anilist_id": 180124,
+    "livechart_id": 12795
   },
   {
     "anidb_id": 6990,
@@ -90835,7 +90838,8 @@
     "mal_id": 50588
   },
   {
-    "anidb_id": 18999
+    "anidb_id": 18999,
+    "mal_id": 59927
   },
   {
     "anidb_id": 18533,
@@ -91161,7 +91165,10 @@
     "mal_id": 52023
   },
   {
-    "anidb_id": 18962
+    "anidb_id": 18962,
+    "anilist_id": 165670,
+    "livechart_id": 12080,
+    "mal_id": 55566
   },
   {
     "anidb_id": 11457,
@@ -104240,5 +104247,32 @@
   },
   {
     "anidb_id": 19043
+  },
+  {
+    "anidb_id": 19051
+  },
+  {
+    "anidb_id": 19055
+  },
+  {
+    "anidb_id": 19057
+  },
+  {
+    "anidb_id": 19060
+  },
+  {
+    "anidb_id": 19061
+  },
+  {
+    "anidb_id": 19062
+  },
+  {
+    "anidb_id": 19063
+  },
+  {
+    "anidb_id": 19064
+  },
+  {
+    "anidb_id": 19065
   }
 ]

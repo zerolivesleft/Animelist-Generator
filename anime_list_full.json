@@ -11695,7 +11695,10 @@
     "mal_id": 60933
   },
   {
-    "anidb_id": 19111
+    "anidb_id": 19111,
+    "anilist_id": 186169,
+    "livechart_id": 13019,
+    "mal_id": 60774
   },
   {
     "anidb_id": 16683,
@@ -104820,5 +104823,53 @@
   },
   {
     "anidb_id": 19156
+  },
+  {
+    "anidb_id": 19157
+  },
+  {
+    "anidb_id": 19158
+  },
+  {
+    "anidb_id": 19159
+  },
+  {
+    "anidb_id": 19160
+  },
+  {
+    "anidb_id": 19161
+  },
+  {
+    "anidb_id": 19162
+  },
+  {
+    "anidb_id": 19163
+  },
+  {
+    "anidb_id": 19164
+  },
+  {
+    "anidb_id": 19165
+  },
+  {
+    "anidb_id": 19166
+  },
+  {
+    "anidb_id": 19167
+  },
+  {
+    "anidb_id": 19168
+  },
+  {
+    "anidb_id": 19169
+  },
+  {
+    "anidb_id": 19170
+  },
+  {
+    "anidb_id": 19171
+  },
+  {
+    "anidb_id": 19172
   }
 ]

@@ -4867,20 +4867,19 @@
     "themoviedb_id": 319191
   },
   {
+    "anidb_id": 7614,
+    "anilist_id": 9045,
+    "kitsu_id": 5585,
+    "imdb_id": "tt2056613",
+    "themoviedb_id": 768551
+  },
+  {
     "anidb_id": 4293,
     "anilist_id": 3720,
     "kitsu_id": 3211,
     "mal_id": 3720,
     "imdb_id": "tt0074705",
     "themoviedb_id": 34052
-  },
-  {
-    "anidb_id": 7614,
-    "anilist_id": 9045,
-    "kitsu_id": 5585,
-    "mal_id": 9045,
-    "imdb_id": "tt2056613",
-    "themoviedb_id": 768551
   },
   {
     "anidb_id": 2971,

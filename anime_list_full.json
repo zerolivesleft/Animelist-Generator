@@ -5132,6 +5132,7 @@
   },
   {
     "anidb_id": 8873,
+    "anilist_id": 12581,
     "kitsu_id": 6768,
     "livechart_id": 4044,
     "mal_id": 12581,
@@ -24443,6 +24444,7 @@
   },
   {
     "anidb_id": 18626,
+    "anilist_id": 187361,
     "livechart_id": 12657,
     "mal_id": 58849
   },
@@ -32091,6 +32093,7 @@
   },
   {
     "anidb_id": 19181,
+    "anilist_id": 187062,
     "livechart_id": 13054,
     "mal_id": 61084
   },
@@ -32557,7 +32560,8 @@
   },
   {
     "anidb_id": 5291,
-    "anilist_id": 186856
+    "anilist_id": 186856,
+    "mal_id": 61103
   },
   {
     "anidb_id": 4853,
@@ -33314,6 +33318,7 @@
   },
   {
     "anidb_id": 19169,
+    "anilist_id": 185900,
     "livechart_id": 13062,
     "mal_id": 61039
   },
@@ -33685,9 +33690,6 @@
   {
     "anidb_id": 12119,
     "thetvdb_id": 310311
-  },
-  {
-    "anidb_id": 18586
   },
   {
     "anidb_id": 18928
@@ -34069,6 +34071,11 @@
     "anilist_id": 9801,
     "kitsu_id": 5878,
     "mal_id": 9801
+  },
+  {
+    "anidb_id": 18586,
+    "anilist_id": 168083,
+    "mal_id": 59291
   },
   {
     "anidb_id": 16617,
@@ -40613,7 +40620,11 @@
     "thetvdb_id": 267438
   },
   {
-    "anidb_id": 8591
+    "anidb_id": 8591,
+    "anilist_id": 7446,
+    "kitsu_id": 4973,
+    "livechart_id": 9114,
+    "mal_id": 7446
   },
   {
     "anidb_id": 4435,
@@ -41523,6 +41534,7 @@
   },
   {
     "anidb_id": 7791,
+    "anilist_id": 187583,
     "kitsu_id": 9875,
     "mal_id": 22605
   },
@@ -50747,7 +50759,10 @@
     "thetvdb_id": 74504
   },
   {
-    "anidb_id": 19214
+    "anidb_id": 19214,
+    "anilist_id": 178749,
+    "livechart_id": 12729,
+    "mal_id": 59176
   },
   {
     "anidb_id": 246,
@@ -63203,6 +63218,7 @@
   },
   {
     "anidb_id": 19200,
+    "anilist_id": 187387,
     "livechart_id": 13070,
     "mal_id": 61150
   },
@@ -64069,7 +64085,8 @@
   {
     "anidb_id": 19059,
     "anilist_id": 185643,
-    "livechart_id": 12976
+    "livechart_id": 12976,
+    "mal_id": 60613
   },
   {
     "anidb_id": 17875,
